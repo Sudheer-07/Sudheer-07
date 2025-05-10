@@ -20,9 +20,4 @@ Here are some of the technologies and tools I work with:
 - **Databases:** MongoDB, MySQL, PostgreSQL
 - **Tools and Platforms:** Git, GitHub, Docker, AWS
 
-## GitHub Stats
-
-![Sudheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudheer-07&show_icons=true&theme=radical)
-
-
 Thanks for visiting my profile! Have a great day! 😊
